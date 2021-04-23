@@ -1,2 +1,2 @@
-# workshop-web-2
+# WORKSHOP WEB LANGAGES
 Necessary files for WEB Workshop
